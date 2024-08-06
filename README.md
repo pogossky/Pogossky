@@ -1,7 +1,7 @@
 # Alexander Pogossky
 
 ## Recent projects
-* [ColorKeycap (React/TS/AntDesign)](https://github.com/pogossky/ColorKeycapRepo) | [source code](https://github.com/pogossky/ColorKeycapRepo)
+* [ColorKeycap (The designer of the mechanical keyboard)](https://github.com/pogossky/ColorKeycapRepo) | [source code](https://github.com/pogossky/ColorKeycapRepo)
 ---
 ## Skills
 
