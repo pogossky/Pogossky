@@ -2,8 +2,8 @@
 
 ## Recent projects
 * ColorKeycaps (The designer of the mechanical keyboard)
-  [video](https://github.com/pogossky/ColorKeycapRepo/blob/main/Demonstration%20screen.PNG)
-  [screen](https://github.com/pogossky/ColorKeycapRepo/blob/main/video%20demonstration.mp4)
+  [screen](https://github.com/pogossky/ColorKeycapRepo/blob/main/Demonstration%20screen.PNG)
+  [video](https://github.com/pogossky/ColorKeycapRepo/blob/main/video%20demonstration.mp4)
 ---
 ## Skills
 
