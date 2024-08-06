@@ -1,7 +1,7 @@
 # Alexander Pogossky
 
 ## Recent projects
-* [ColorKeycap (The designer of the mechanical keyboard)](https://github.com/pogossky/ColorKeycapRepo/blob/main/video%20demonstration.mp4) 
+* [ColorKeycaps (The designer of the mechanical keyboard)](https://github.com/pogossky/ColorKeycapRepo/blob/main/video%20demonstration.mp4) 
 ---
 ## Skills
 
