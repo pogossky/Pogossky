@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alexander Pogossky
 
-<!--
-**pogossky/pogossky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Recent projects
+* [ColorKeycap (React/TS/AntDesign)](https://github.com/pogossky/ColorKeycapRepo) | [source code](https://github.com/pogossky/ColorKeycapRepo)
+---
+## Skills
 
-Here are some ideas to get you started:
+C#, Unity, Git, 2D, 3D 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Education
+
+- **2015 - 2020** [Synergy](https://universitysynergy.ru/)
+- **2011 - 2015** [KST](https://kst.mskobr.ru/) 
+
+---
+## Contacts
+* Telegram: @corwin_a
+* E-mail: corwin.a@yandex.ru
